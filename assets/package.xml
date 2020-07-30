@@ -3,6 +3,7 @@
   <types>
     <members>MaintenanceRequestHelper</members>
     <members>WarehouseCalloutService</members>
+    <members>WarehouseSyncSchedule</members>
     <name>ApexClass</name>
   </types>
   <types>
